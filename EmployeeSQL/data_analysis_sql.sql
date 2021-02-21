@@ -1,4 +1,7 @@
+-- Maria Barrera -- SQL Challenge -- 02/21/2021
+
 --Data Analysis
+
 --Once you have a complete database, do the following:
 -- 1) List the following details of each employee: 
 -- employee number, last name, first name, sex, and salary.
@@ -84,7 +87,7 @@ ORDER BY
 	COUNT DESC, last_name ASC
 ;
 
--- Epilogue:
+-- Epilogue: APRIL FOOLS' DAY :)
 -- emp_no	emp_title_id	birth_date	first_name	last_name	sex	hire_date
 -- 499942	e0004			1/10/1963	April		Foolsday	F	2/10/1997
 -- 

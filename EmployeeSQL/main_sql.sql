@@ -1,7 +1,13 @@
+-- Maria Barrera -- SQL Challenge -- 02/21/2021
+
+-- Build the tables for the employees_db
+
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/fanGt0
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+-- Drop table(s) if table(s) exists:  departments, dept_emp, dept_manager, employees, salaries, titles
+-- ex. DROP TABLE employees;
 
 CREATE TABLE "employees" (
     "emp_no" INTEGER   NOT NULL,
