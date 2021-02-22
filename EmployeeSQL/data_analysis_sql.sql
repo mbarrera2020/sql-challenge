@@ -1,8 +1,7 @@
 -- Maria Barrera -- SQL Challenge -- 02/21/2021
+-- Data Analysis
+-- Once you have a complete database, do the following:
 
---Data Analysis
-
---Once you have a complete database, do the following:
 -- 1) List the following details of each employee: 
 -- employee number, last name, first name, sex, and salary.
 SELECT e.emp_no, last_name, first_name, sex, salary
